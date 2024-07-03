@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "air-datepicker": "^3.5.3",
+    "bootstrap": "^5.3.3",
+    "bootstrap-vue": "^2.23.1",
+    "vue": "^2.7.16"
+  }
+}

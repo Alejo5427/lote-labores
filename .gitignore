@@ -23,8 +23,8 @@ yarn-error.log
 .vscode/*
 .env
 
+
 node_modules
-Frontend/node_modules
 
 !.vscode/settings.json
 !.vscode/tasks.json
